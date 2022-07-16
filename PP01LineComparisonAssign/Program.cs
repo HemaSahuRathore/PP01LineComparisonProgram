@@ -1,6 +1,6 @@
 ﻿namespace PP01LineComparisonAssign
 {  /// <summary>
-   /// UC2 : Check equality of two lines using Equals method 
+   /// UC3 : Compare 2 lines to check whether one line is equal, greater or less than the other line using CompareTo method
    /// </summary>
     internal class Program
     {
@@ -32,13 +32,14 @@
             double length1 = Math.Sqrt((Math.Pow((x2 - x1), 2)) + (Math.Pow((y2 - y1), 2)));
             double length2 = Math.Sqrt((Math.Pow((x4 - x3), 2)) + (Math.Pow((y4 - y3), 2)));
 
-            bool value1 = length1.Equals(length2); //using Equals method to compare 2 lines
-
-            //Selection statement
-            if (value1 == true)
-                Console.WriteLine("Lines are equal");
+            //Selection statement to compare length of 2 line
+            int value = length1.CompareTo(length2); //using CompareTo method to compare length of 2 lines
+            if (value < 0)
+                Console.WriteLine("Length of Line 1 is smaller than Line 2");
+            else if (value == 0)
+                Console.WriteLine("Length of Line 1 is equal to Line 2");
             else
-                Console.WriteLine("Lines are not equal");
+                Console.WriteLine("Length of Line 1 is greater than Line 2");
         }
     }
 }
