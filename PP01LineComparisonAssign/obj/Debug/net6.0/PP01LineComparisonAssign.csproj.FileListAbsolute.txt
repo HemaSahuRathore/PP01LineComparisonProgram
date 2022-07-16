@@ -1,0 +1,15 @@
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\bin\Debug\net6.0\PP01LineComparisonAssign.exe
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\bin\Debug\net6.0\PP01LineComparisonAssign.deps.json
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\bin\Debug\net6.0\PP01LineComparisonAssign.runtimeconfig.json
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\bin\Debug\net6.0\PP01LineComparisonAssign.dll
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\bin\Debug\net6.0\PP01LineComparisonAssign.pdb
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.csproj.AssemblyReference.cache
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.AssemblyInfoInputs.cache
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.AssemblyInfo.cs
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.csproj.CoreCompileInputs.cache
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.dll
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\refint\PP01LineComparisonAssign.dll
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.pdb
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\PP01LineComparisonAssign.genruntimeconfig.cache
+C:\Users\Chank\source\repos\PP01LineComparisonAssign\PP01LineComparisonAssign\obj\Debug\net6.0\ref\PP01LineComparisonAssign.dll
